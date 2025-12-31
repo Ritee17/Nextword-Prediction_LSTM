@@ -8,6 +8,7 @@ A Deep Learning project that predicts the next word in a sequence of text, train
 
 ## 📌 Project Overview
 The goal of this project is to develop a language model capable of understanding context and generating text in the style of Shakespeare. By analyzing sequences of words from *Hamlet*, the model learns to predict the most probable next word, demonstrating the power of RNNs in Natural Language Processing (NLP).
+LIVE DEMO - https://nextword-predictionlstm-p62xzk3lsy7rv3lhkfalak.streamlit.app/
 
 ### Key Features
 * **Deep Learning Model:** Stacked LSTM architecture (Embedding -> LSTM -> Dropout -> Dense).
