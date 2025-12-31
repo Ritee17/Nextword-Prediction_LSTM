@@ -44,7 +44,7 @@ Here is the organization of the repository:
 
 3.  **Install dependencies:**
     ```bash
-    pip install -r "requiremen ts.txt"
+    pip install -r "requirements.txt"
     ```
     *(Note: Ensure the filename matches exactly as it appears in the repo)*
 
@@ -78,8 +78,6 @@ The model is built using **TensorFlow/Keras** with the following layers:
 5. **Dense Output Layer:** Softmax activation to predict the probability of the next word among all vocabulary words.
 
 ## 📊 Screenshots
-
-*(Add your screenshots here!)*
 
 ### Streamlit Interface
 <img width="1380" height="893" alt="image" src="https://github.com/user-attachments/assets/00c4da52-c08d-49a5-b1b5-b38286eca93b" />
